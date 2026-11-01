@@ -1,0 +1,252 @@
+[
+  {
+    "q": "What are the initial observations and conditions of the post-wildfire slope?",
+    "a": "The hillside is recently burned with grey-black ash covering dark, dry soil. Water beads up and runs off, some tall trees remain charred with occasional green shoots at their bases, and there is high erosion and slumping risk. It does not assume slope steepness, rain imminence, debris presence, or dead trees unless stated.",
+    "keywords": ["initial", "observations", "conditions", "post-wildfire", "slope", "burn", "scar", "ash", "ground", "echo", "step 1"]
+  },
+  {
+    "q": "What does the ground surface look like after the wildfire?",
+    "a": "The ground is covered with a layer of grey-black ash over dark, dry soil where water beads up and runs off rather than soaking in.",
+    "keywords": ["ground", "surface", "look", "like", "ash", "grey-black", "dark", "dry", "soil", "appearance"]
+  },
+  {
+    "q": "What immediate hazards exist on the burned hillside?",
+    "a": "Immediate hazards include water-repellent soil, loss of protective organic ground cover, erosion risk, slumping of steep slopes, charred trees, and debris from burned structures such as metal and plastic.",
+    "keywords": ["immediate", "hazards", "dangers", "burned", "hillside", "slope", "slumping", "erosion", "risks", "debris"]
+  },
+  {
+    "q": "What is the soil archetype and what critical information is missing from the scenario?",
+    "a": "The soil archetype is burnt, water-repellent, erodible slope soil. Critical missing information includes exact burn severity, slope stability, rainfall timing, and debris presence or type.",
+    "keywords": ["soil", "archetype", "critical", "missing", "information", "analysis", "severity", "stability", "timing", "step 2"]
+  },
+  {
+    "q": "How can I tell if the burn severity is patchy or severe using simple observation?",
+    "a": "Observe whether there are unburned patches and living roots (patchy burn) or deep grey-black ash with bare, apparently lifeless soil (severe burn). Exact scientific severity indices are not in the knowledge base.",
+    "keywords": ["burn", "severity", "patchy", "severe", "tell", "classify", "distinguish", "observation", "living roots"]
+  },
+  {
+    "q": "Can I determine the exact burn depth or scientific severity index?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["exact", "burn", "depth", "scientific", "severity", "index", "measurement", "scale", "centimeters"]
+  },
+  {
+    "q": "Why does water run off the burned soil?",
+    "a": "Wildfire heat causes the dark, dry soil beneath the grey-black ash to become water-repellent (hydrophobic), making water bead up and run down the slope instead of soaking in.",
+    "keywords": ["why", "water", "run", "off", "burned", "soil", "bead", "beads", "repellent", "hydrophobic", "runs"]
+  },
+  {
+    "q": "How can I check if the soil is water-repellent using simple observation?",
+    "a": "Place a water drop or pour a small handful of water on the soil beneath the ash. If water beads up into droplets and rolls off rather than penetrating within moments, the soil is water-repellent.",
+    "keywords": ["check", "soil", "water-repellent", "hydrophobic", "observation", "beads", "test", "drop", "handful", "water drop"]
+  },
+  {
+    "q": "How can I check whether the surviving trees show signs of life?",
+    "a": "Inspect the base of charred tall trees for occasional green shoots, gently scrape bark to look for green tissue beneath, or carefully dig near a tree base to look for pliable living roots.",
+    "keywords": ["check", "surviving", "trees", "signs", "life", "green shoots", "charred", "alive", "living", "scrape bark", "roots"]
+  },
+  {
+    "q": "Can observational checks guarantee slope stability or provide scientific diagnoses?",
+    "a": "No. Observational checks like water drops or root inspection indicate surface conditions, but they do not provide scientific diagnoses or guarantees of safety against slope failure.",
+    "keywords": ["observational", "checks", "guarantee", "slope", "stability", "scientific", "diagnoses", "safety"]
+  },
+  {
+    "q": "What causes erosion and slumping on burned slopes?",
+    "a": "Loss of protective organic ground cover combined with water-repellent soil prevents rain from soaking in, causing water to run off across the surface, wash topsoil downslope, and trigger erosion and slumping.",
+    "keywords": ["causes", "erosion", "slumping", "burned", "slopes", "mudslide", "soil", "loss", "runoff"]
+  },
+  {
+    "q": "What simple observation helps detect early slope erosion and slumping?",
+    "a": "Watch for fine erosion channels forming after dew or a light shower, cracks appearing across the slope contour, or soil bulging downslope, especially on steep sections where standing upright is difficult.",
+    "keywords": ["detect", "early", "slope", "erosion", "slumping", "fine erosion channels", "cracks", "bulging", "shower", "dew"]
+  },
+  {
+    "q": "What is the safe, ordered stabilization protocol for the burned slope?",
+    "a": "The safe ordered protocol is: 1) Verify personal safety on steep ground; 2) Check rainfall timing (act before heavy rain); 3) Safely isolate sharp metal and plastic debris; 4) Protect existing cover and living roots; 5) Lay logs or branches across the slope spaced about a body-length apart; 6) Apply a thick layer of straw mulch to a hand's depth; 7) Sow quick cover legumes; and 8) Ensure slope is fully protected before cultivation.",
+    "keywords": ["safe", "ordered", "stabilization", "protocol", "fix protocol", "steps", "body-length", "straw", "step 3"]
+  },
+  {
+    "q": "What should I do if heavy rain is approaching the burned slope?",
+    "a": "Immediately prioritize slope stabilization and erosion control before doing anything else. Install cross-slope barriers using logs and branches and spread straw mulch to protect bare soil from runoff and washouts.",
+    "keywords": ["heavy", "rain", "approaching", "prioritize", "urgent", "storm", "immediate", "action", "rainfall"]
+  },
+  {
+    "q": "What if there is no immediate rain expected?",
+    "a": "Even if no rain is immediately forecast, focus first on securing the slope with cross-slope barriers, clearing hazardous debris, and preparing ground cover before attempting any planting.",
+    "keywords": ["no", "immediate", "rain", "dry", "forecast", "expected", "prepare", "sunny"]
+  },
+  {
+    "q": "What is the scientifically measured rainfall threshold for this slope?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["scientifically", "measured", "rainfall", "threshold", "millimeters", "intensity", "hourly", "rate"]
+  },
+  {
+    "q": "How do I build cross-slope barriers using logs and branches?",
+    "a": "Place charred logs and fallen branches horizontally across the slope contour, staking them securely about a body-length apart so they trap moving ash, slow down runoff, and create natural mini-terraces.",
+    "keywords": ["build", "cross-slope", "barriers", "logs", "branches", "contour", "terraces", "placing", "body-length"]
+  },
+  {
+    "q": "How should straw mulch be applied on the burned slope?",
+    "a": "Spread a thick layer of straw loosely across the bare ash and soil to a hand's depth, creating a protective blanket that shields the ground from raindrop impact and reduces surface runoff.",
+    "keywords": ["straw", "mulch", "applied", "spread", "depth", "cover", "layer", "blanket", "hand's depth"]
+  },
+  {
+    "q": "What should I do if the slope is too steep or dangerous to approach safely?",
+    "a": "If the slope is so steep that standing upright is difficult or the ground shows signs of active slumping, do not risk approaching or working on it. Life safety comes first before any stabilization attempts.",
+    "keywords": ["slope", "too steep", "dangerous", "approach", "safely", "standing upright", "difficult", "safety first"]
+  },
+  {
+    "q": "How should I handle debris from burned structures like plastic and metal?",
+    "a": "Treat burned-building debris as a safety hazard. Clear or cordon off sharp metal, melted plastic, and toxic construction debris with care before undertaking slope work, and avoid disturbing areas with hazardous materials.",
+    "keywords": ["handle", "debris", "burned-building", "plastic", "metal", "safety", "hazard", "structures", "waste"]
+  },
+  {
+    "q": "Is it safe to plant food crops directly in ash contaminated with burned plastic or metal?",
+    "a": "No, areas contaminated with burned plastic and metal debris pose safety and contamination risks. Focus on stabilizing the ground and keep cultivation away from debris-affected zones.",
+    "keywords": ["safe", "plant", "food", "ash", "contaminated", "plastic", "metal", "toxic", "crops"]
+  },
+  {
+    "q": "What should I prioritize before planting when heavy rain is approaching?",
+    "a": "Prioritize slope stabilization, erosion barriers, and safety over cultivation. Secure the hillside with cross-slope logs, branches, and mulch so heavy rain does not wash away the topsoil and seeds.",
+    "keywords": ["prioritize", "before", "planting", "heavy", "rain", "approaching", "stabilization", "erosion", "priority"]
+  },
+  {
+    "q": "Why must slope stabilization come before food cultivation?",
+    "a": "Attempting to plant before stabilizing the hillside will result in seeds and loose soil being washed away by water running off the hydrophobic surface, leading to slope failure and crop loss.",
+    "keywords": ["why", "stabilization", "before", "food", "cultivation", "priority", "wash", "away", "failure"]
+  },
+  {
+    "q": "How do I know the slope is ready for cultivation?",
+    "a": "The slope is ready for cultivation only when the readiness gate is satisfied: cross-slope barriers are holding, water drop absorbs into the soil rather than beading up, hazardous debris is cleared, and the slope appears stable.",
+    "keywords": ["know", "slope", "ready", "cultivation", "planting", "readiness", "gate", "checks", "step 4"]
+  },
+  {
+    "q": "Does a successful water-drop test alone prove the slope is safe for planting?",
+    "a": "No. A successful water-drop check only shows that soil water repellency has lessened; it alone does not establish that the slope is physically stable against erosion or slumping.",
+    "keywords": ["water-drop", "test", "alone", "prove", "safe", "planting", "slope", "stable", "readiness"]
+  },
+  {
+    "q": "Can I plant crops if the slope remains unstable or heavy rain is approaching?",
+    "a": "No. If the slope is unstable, heavy rain is approaching, barriers are not holding, or significant erosion risk remains, cultivation must wait until stabilization is fully secured.",
+    "keywords": ["plant", "crops", "unstable", "heavy rain", "approaching", "wait", "decision", "readiness gate"]
+  },
+  {
+    "q": "What plants or crops are suitable for soil-building on a burned hillside?",
+    "a": "Fast-growing soil-building cover options like legumes are recommended because their roots hold loose soil across the slope and help rebuild organic ground cover.",
+    "keywords": ["plants", "crops", "suitable", "soil-building", "legumes", "cover", "burned", "hillside", "options", "step 5"]
+  },
+  {
+    "q": "What is cover seeding and how does it help a burned slope?",
+    "a": "Cover seeding involves broadcasting fast-growing ground cover, such as legumes, across the stabilized slope so emerging root networks bind the soil and foliage shields bare ground from rain.",
+    "keywords": ["cover", "seeding", "help", "burned", "slope", "broadcast", "roots", "legumes"]
+  },
+  {
+    "q": "Can I grow food crops immediately on the steep burned slopes?",
+    "a": "No, steep slopes should be protected with stabilization barriers and soil-building cover crops like legumes first; food cultivation should only be attempted on gentler, stabilized areas.",
+    "keywords": ["grow", "food", "crops", "immediately", "steep", "burned", "slopes", "vegetables"]
+  },
+  {
+    "q": "What specific crop varieties should I plant?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["specific", "crop", "varieties", "cultivars", "names", "seed", "brands", "species"]
+  },
+  {
+    "q": "Which specific legume variety or seed brand is best for this slope?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["which", "specific", "legume", "variety", "seed", "brand", "best", "suitability"]
+  },
+  {
+    "q": "What is the recovery timeframe for the burned hillside to stabilize?",
+    "a": "Initial stabilization with logs and mulch happens immediately, but full soil-recovery and organic layer rebuilding is a gradual process that must precede cultivation. Numerical weeks or months are not in the knowledge base.",
+    "keywords": ["recovery", "timeframe", "burned", "hillside", "stabilize", "how", "long", "period", "buffer", "step 6"]
+  },
+  {
+    "q": "How long does it take for crops to mature on a burn scar?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["how", "long", "crops", "mature", "maturity", "days", "weeks", "harvest", "timeframe", "duration"]
+  },
+  {
+    "q": "What is the numerical stabilization duration or soil-recovery buffer in days?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["numerical", "stabilization", "duration", "soil-recovery", "buffer", "days", "months", "timeline"]
+  },
+  {
+    "q": "What is the expected harvest date or crop maturity period in weeks?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["expected", "harvest", "date", "crop", "maturity", "period", "weeks", "ranges"]
+  },
+  {
+    "q": "How should beds be arranged on a hillside to prevent erosion?",
+    "a": "Always lay out planting beds horizontally across the slope contour, never up and down, to slow water runoff and retain moisture behind cross-slope barriers.",
+    "keywords": ["beds", "arranged", "hillside", "across", "slope", "contour", "layout", "orientation", "step 7"]
+  },
+  {
+    "q": "How should seeds be sown and mulched on the burned ground?",
+    "a": "Sow seeds into pockets across the contour, press them gently into the ash-soil boundary, and immediately cover with a light layer of straw or fine branch mulch to protect them from wind and runoff.",
+    "keywords": ["seeds", "sown", "mulched", "burned", "ground", "sowing", "straw", "pockets"]
+  },
+  {
+    "q": "How should I water newly seeded areas without causing runoff?",
+    "a": "Apply water gently in small amounts, such as a cupful or light sprinkling from a spring pipe, allowing moisture to soak in slowly without forming puddles, beads, or channels that run downslope.",
+    "keywords": ["water", "newly", "seeded", "watering", "without", "causing", "runoff", "gently", "sprinkling", "spring pipe"]
+  },
+  {
+    "q": "Can I water the slope directly with a high-pressure hose or open pipe?",
+    "a": "No. Water should never be poured forcefully from an open spring pipe or hose, as concentrated flow will carve new erosion channels and wash away loose ash and seed pockets.",
+    "keywords": ["water", "slope", "directly", "forcefully", "open pipe", "hose", "spring pipe", "concentrated"]
+  },
+  {
+    "q": "Should I dig deep cultivation beds on an unstable slope?",
+    "a": "No, do not dig deep beds or till deeply on an unstable burned slope, as breaking up the soil crust will increase the danger of soil slipping and erosion.",
+    "keywords": ["dig", "deep", "cultivation", "beds", "unstable", "slope", "tilling", "digging"]
+  },
+  {
+    "q": "What checks should I perform on the slope after a heavy rainstorm?",
+    "a": "Inspect the hillside after every storm to check if cross-slope log barriers held, look for new erosion channels or gullies, check for silt accumulation or exposed roots, and repair any damaged barriers immediately.",
+    "keywords": ["checks", "perform", "after", "heavy", "rainstorm", "storm", "post-storm", "gullies", "inspection", "channels", "step 8"]
+  },
+  {
+    "q": "What are the growth stages of cover crops on ash soil?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["growth", "stages", "cover", "crops", "vegetative", "flowering", "phases", "timeline"]
+  },
+  {
+    "q": "What fertilizer should I apply to ash-affected soil?",
+    "a": "The case study does not recommend synthetic fertilizers or chemical additives. Grey-black ash already contains mineral residues from burned vegetation, and organic mulch like straw should be used to rebuild soil cover.",
+    "keywords": ["fertilizer", "apply", "ash-affected", "soil", "nutrients", "chemical", "additives"]
+  },
+  {
+    "q": "What is the exact fertilizer dosage in grams per square meter?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["exact", "fertilizer", "dosage", "grams", "square", "meter", "quantity", "amount", "rate"]
+  },
+  {
+    "q": "What bio-pesticides or pest control methods should I use on the slope?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["bio-pesticides", "pest", "control", "methods", "insects", "disease", "spray", "pesticides"]
+  },
+  {
+    "q": "What are the harvest and long-term recovery considerations for the slope?",
+    "a": "Harvesting on a burn scar must prioritize slope integrity. Deep woody roots from surviving trees and established cover roots must remain undisturbed to anchor the soil mantle. The organic layer regenerates as straw mulch and shoots break down. Specific crop maturity dates, harvest signs, or mechanical harvesting methods are not supported in the knowledge base.",
+    "keywords": ["harvest", "considerations", "long-term", "recovery", "slope", "woody roots", "step 9"]
+  },
+  {
+    "q": "What are the harvest signs for crops grown on the slope?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["harvest signs", "specific", "maturity", "crops", "reap", "signs", "yield"]
+  },
+  {
+    "q": "How does the organic layer recover after a wildfire?",
+    "a": "The organic layer recovers gradually as surviving trees push new shoots, decomposing straw mulch and fallen branches break down, and legume cover crops add organic matter to the ash.",
+    "keywords": ["organic", "layer", "recover", "wildfire", "regeneration", "humus", "soil", "recovery"]
+  },
+  {
+    "q": "Why are woody roots critical for long-term slope recovery?",
+    "a": "Deep woody roots from surviving charred trees physically anchor the soil mantle against gravity and water flow, preventing massive slumping while surface ground cover re-establishes.",
+    "keywords": ["woody", "roots", "critical", "long-term", "slope", "recovery", "anchor", "stability"]
+  },
+  {
+    "q": "What is the exact chemical formula for treating water-repellent soil?",
+    "a": "I don't have that information in my knowledge base.",
+    "keywords": ["exact", "chemical", "formula", "treating", "water-repellent", "soil", "surfactant", "compound"]
+  }
+]

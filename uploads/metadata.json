@@ -1,0 +1,56 @@
+[
+  {
+    "id": "doc_a06273dea8",
+    "filename": "WhatsApp_Image_2026-10-15_at_4.47.07_PM.jpeg",
+    "stored_name": "doc_a06273dea8_WhatsApp_Image_2026-10-15_at_4.47.07_PM.jpeg",
+    "file_type": "JPEG",
+    "size_bytes": 137897,
+    "upload_time": "2026-10-15T11:17:46Z",
+    "status": "Indexed",
+    "entries_count": 4,
+    "preview_url": "/uploads/doc_a06273dea8_WhatsApp_Image_2026-10-15_at_4.47.07_PM.jpeg"
+  },
+  {
+    "id": "doc_4d8e98bb67",
+    "filename": "wildfire_scar_sample.jpg",
+    "stored_name": "doc_4d8e98bb67_wildfire_scar_sample.jpg",
+    "file_type": "JPG",
+    "size_bytes": 947,
+    "upload_time": "2026-10-15T10:47:13Z",
+    "status": "Indexed",
+    "entries_count": 4,
+    "preview_url": "/uploads/doc_4d8e98bb67_wildfire_scar_sample.jpg"
+  },
+  {
+    "id": "doc_2fd7c49086",
+    "filename": "134099825617461272.jpg",
+    "stored_name": "doc_2fd7c49086_134099825617461272.jpg",
+    "file_type": "JPG",
+    "size_bytes": 2290866,
+    "upload_time": "2026-10-15T10:35:38Z",
+    "status": "Indexed",
+    "entries_count": 1,
+    "preview_url": "/uploads/doc_2fd7c49086_134099825617461272.jpg"
+  },
+  {
+    "id": "doc_99c6836a54",
+    "filename": "134099825617461272.jpg",
+    "stored_name": "doc_99c6836a54_134099825617461272.jpg",
+    "file_type": "JPG",
+    "size_bytes": 2290866,
+    "upload_time": "2026-10-15T09:42:24Z",
+    "status": "Indexed",
+    "entries_count": 1,
+    "preview_url": "/uploads/doc_99c6836a54_134099825617461272.jpg"
+  },
+  {
+    "id": "doc_bd4e5da232",
+    "filename": "vegetation_zone.png",
+    "stored_name": "doc_bd4e5da232_vegetation_zone.png",
+    "file_type": "PNG",
+    "size_bytes": 291,
+    "upload_time": "2026-10-15T10:47:13Z",
+    "status": "Vision Analyzed",
+    "preview_url": "/uploads/doc_bd4e5da232_vegetation_zone.png"
+  }
+]
